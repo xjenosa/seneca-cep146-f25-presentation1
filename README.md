@@ -9,4 +9,4 @@ Explore how mobile wallets and online payment systems like Apple Pay, WePay, Vin
 
 [YouTube Link]()
 
-**If software-driven payment platforms can bypass traditional banks and U.S.-controlled systems, will this lead to a more open and fair global economy — or create new monopolies elsewhere?***
+**If software-driven payment platforms can bypass traditional banks and U.S.-controlled systems, will this lead to a more open and fair global economy — or create new monopolies elsewhere?**
